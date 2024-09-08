@@ -71,6 +71,16 @@ let dados = [
         descricao: "O terror corporal explora as transformações e deformações do corpo humano, causando repulsa e desconforto no espectador. As doenças, mutações e experimentos científicos são temas comuns.",
         links: ["https://letterboxd.com/burning_dog/list/body-horror-films/", "https://pt.wikipedia.org/wiki/Body_horror"],
         tags: "bodyhorror, corpo, mutação, deformação, biológico, doença"
+    },
+    {
+        titulo: "Terror Folclórico",
+        tema: "Crenças populares",
+        arma: "Criaturas míticas",
+        metodo: ["Assombração", "Transformação", "Culto", "Invocação", "Magia", "Bruxaria"],
+        ambiente: ["Rural", "Floresta", "Comunidade",],
+        descricao: "O terror folclórico se baseia em lendas e mitos de diferentes culturas, explorando criaturas míticas e crenças populares. Esses filmes frequentemente retratam a tensão entre o mundo natural e o sobrenatural, e exploram temas como tradição, medo do desconhecido e a força da natureza.",
+        links: ["https://letterboxd.com/clairacurtis/list/folk-horror-a-study/","https://pt.wikipedia.org/wiki/Terror_folclórico"],
+        tags: "lenda, mito, criatura mítica, folclore, sobrenatural, natureza, magia, bruxaria, culto, ocultismo"
     }
 ];
 
