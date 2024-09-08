@@ -2,7 +2,7 @@
 
 **O que é?**
 
-Cinema Obscuro é uma aplicação web simples e interativa que permite aos amantes do terror explorarem um catálogo de filmes de terror, organizados por subgêneros e temas. A aplicação oferece uma interface intuitiva para pesquisar filmes e descobrir novas obras assustadoras.
+Cinema Obscuro é uma aplicação web simples e interativa que permite aos amantes do terror explorarem um catálogo de filmes de terror, organizados por subgêneros e temas. A aplicação oferece uma interface intuitiva para pesquisar filmes e descobrir novas obras assustadoras. O Principal objetivo é poder encontrar filmes que são parecidos em questão de roteiro, direção ou fotografia com outro do qual você gostou muito!
 
 **Como funciona?**
 
