@@ -22,6 +22,8 @@ Cinema Obscuro é uma aplicação web simples e interativa que permite aos amant
 2. **Abra o arquivo index.html:** Abra o arquivo index.html em um navegador web.
 3. **Faça sua pesquisa:** Digite um termo relacionado a filmes de terror no campo de pesquisa e clique no botão "Pesquisar".
 
+**Vercel link** https://cine-obscuro.vercel.app
+
 **Contribuições:**
 
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou criar um pull request.
