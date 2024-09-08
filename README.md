@@ -1,4 +1,4 @@
-## **Cinema Obscuro: Sua Imersão no Mundo do Terror**
+## **Cinema Obscuro: Sua Imersão no Mundo do Terror** - Imersão Dev com Google Gemini
 
 **O que é?**
 
