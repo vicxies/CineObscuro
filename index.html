@@ -8,24 +8,28 @@
 </head>
 <body>
     <header>
-        <h1> CINEMA OBSCURO </h1>
+        <h1>CINEMA OBSCURO</h1>
     </header> 
+
     <main>
-        <section>
-        <form>
-            <input type="text" placeholder="Digite o gênero ou 'terror' para lista completa" id="campo-pesquisa">
-            <button id="botao-pesquisa" onclick="pesquisar()">Pesquisar</button>
-        </form>
+        <section class="pesquisa">
+            <!-- Formulário de pesquisa -->
+            <form>
+                <input type="text" placeholder="Digite o gênero de terror" id="campo-pesquisa">
+                <button id="botao-pesquisa" onclick="pesquisar()">Pesquisar</button>
+            </form>
         </section>
-        <section class="cor" class="resultados-pesquisa" id="resultados-pesquisa">
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+            <!-- Resultados da pesquisa aparecerão aqui -->
         </section>
     </main>
+
     <footer>
-        <p>
-            2024 - Cinema Obscuro. Todos os direitos reservados
-            <p>Contato: cinemaobscuro@gmail.com</p>
-        </p>
+        <p>2024 - Cinema Obscuro. Todos os direitos reservados.</p>
+        <p>Contato: cinemaobscuro@gmail.com</p>
     </footer>
+
     <script src="dados.js"></script>
     <script src="app.js"></script>
 </body>
